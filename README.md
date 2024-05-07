@@ -1,4 +1,4 @@
 # kg
 first repositary
 <br>
-Author - Krish gupta
+Author - Krish gupta(coder)
